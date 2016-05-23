@@ -17,24 +17,51 @@ app.get('/scrapeList', (req, res) => {
 
   rp(url)
   .then( html => {
+    var tUrl, subject, guest;
+    //cache html cheerio style
+    var $ = cheerio.load(html);
+
+    // console.log($, '$$$$$$$$$$$$$$$$');
+
+    var json = {url: '', name: '', subject: '' };
+
+    $('.podcast').filter(function() {
+      var data = $(this); 
+      // console.log('#####',data);
+      tUrl = data.text();
+      console.log('######', tUrl);
+    }); 
+
+
+    //write the succesfully received text to a file
     fs.writeFile('output.txt', JSON.stringify(html, null, 4), err => {
       if (!err) {
+        //terminal log for success
         console.log('wrote it, check it.');
+        //notify client of succes
         res.send('file received and written - go check');
       } else {
+        //terminal log for error
         console.log('error writing file: ');
+        //notify client of error
         res.send('something went wrong');
       }
     });
   })
   .catch( err => {
+    //terminal log for error
     console.log("error reading file: ");
+    //error handling object
     var errObj = {
       name: err.name,
       code: err.statusCode
     }
-    fs.writeFile('errorLog.txt', JSON.stringify(errObj, null, 4), err => {
-      console.log('error writing to erroLog');
+    //write errors to log
+    fs.writeFile('errorLog.txt', JSON.stringify(err, null, 4), err => {
+      if (err) {
+        console.log('error writing to erroLog');
+      }
+      //notify client of error
       res.send('catch err')
     });
   });
