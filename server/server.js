@@ -1,11 +1,15 @@
 var express = require('express');
 var rp = require('request-promise');
 var cheerio = require('cheerio');
+var path = require('path');
 app = express();
 
-app.get('/' (req, res) => {
-  console.log('console test')
-  res.send('Hello World');
+app.get('/', (req, res) => {
+
+  // console.log('this is making the request');
+  console.log(__dirname.indexOf('/mvp/'));
+  console.log('another');
+  res.sendFile('index.html', {root: '/../client'});
 });
 
 app.listen('8081');
