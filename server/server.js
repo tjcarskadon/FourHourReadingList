@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
 app.get('/scrapeList', (req, res) => {
 
 //target URL for the list of podcasts to parse
-  var url = 'http://fourhourworkweek.com/podcasta/';
+  var url = 'http://fourhourworkweek.com/podcast/';
 
   rp(url)
   .then( html => {
