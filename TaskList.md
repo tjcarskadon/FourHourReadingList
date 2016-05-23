@@ -1,7 +1,8 @@
 ##Active Tasks:
-- [ ] design schema
+- [ ] create server and render "hello world"
 
 ###Backlog:
+- [ ] server index.html page
 - [ ] review target site html and determine parse algorithm 
 - [ ] render the list to the page
 - [ ] make a decision on routing and using angular routes vs UI
@@ -14,6 +15,7 @@
 - [ ] write a faq
 
 ##Completed
+- [x] design schema
 - [x] setup environment
 
 ###Architecture:
