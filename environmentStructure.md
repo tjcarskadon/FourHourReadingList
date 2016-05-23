@@ -1,0 +1,19 @@
+
+mvp
+|
+|
+|--client
+    |
+    |--app
+    |
+    |--assests
+    |
+    |--lib
+    |
+    |--styles
+    |
+|--server
+    |
+    |--db
+    |
+    |-server.js
