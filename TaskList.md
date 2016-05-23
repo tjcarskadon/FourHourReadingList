@@ -1,10 +1,10 @@
 ##Active Tasks:
-- [ ] setup environment
+- [ ] design schema
 
 ###Backlog:
-- [ ] design schema
 - [ ] review target site html and determine parse algorithm 
 - [ ] render the list to the page
+- [ ] make a decision on routing and using angular routes vs UI
 - [ ] set up angular site and render info from blog to page
 - [ ] Build a single page test to ensure parsing is correct
 - [ ] Build a task list maker - reads the list of sites to be populated and stores them
@@ -12,6 +12,9 @@
 - [ ] add some task manager and automation
 - [ ] write a readme
 - [ ] write a faq
+
+##Completed
+- [x] setup environment
 
 ###Architecture:
 - [ ] MEAN stack

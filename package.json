@@ -1,5 +1,5 @@
 {
-  "name": "Tim Ferriss Reading List",
+  "name": "Tim-Ferriss-Reading-List",
   "version": "0.0.1",
   "description": "A crawler for Tim Ferriss' blog that keeps an up-to-date list of recommended reading",
   "main": "server.js",
