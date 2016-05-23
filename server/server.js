@@ -25,10 +25,10 @@ app.get('/scrapeList', (req, res) => {
 
     var json = {url: '', name: '', subject: '' };
 
-    $('.podcast').filter(function() {
+    $('.podcast a').filter(function() {
       var data = $(this); 
       // console.log('#####',data);
-      tUrl = data.text();
+      tUrl = data.attr('href');
       console.log('######', tUrl);
     }); 
 
