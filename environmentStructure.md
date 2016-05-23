@@ -14,6 +14,6 @@ mvp
     |
 |--server
     |
-    |--db
+    |--config
     |
     |-server.js
