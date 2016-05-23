@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
 app.get('/scrapeList', (req, res) => {
 
 //target URL for the list of podcasts to parse
-  var url = 'http://fourhourworkweek.com/podcast/';
+  var url = 'http://fourhourworkweek.com/podcasta/';
 
   rp(url)
   .then( html => {
@@ -29,7 +29,11 @@ app.get('/scrapeList', (req, res) => {
   })
   .catch( err => {
     console.log("error reading file: ");
-    fs.writeFile('errorLog.txt', JSON.stringify(err, null, 4), err => {
+    var errObj = {
+      name: err.name,
+      code: err.statusCode
+    }
+    fs.writeFile('errorLog.txt', JSON.stringify(errObj, null, 4), err => {
       console.log('error writing to erroLog');
       res.send('catch err')
     });
