@@ -1,9 +1,9 @@
 ##Active Tasks:
-- [ ] create server and render "hello world"
+- [ ] get list and add to a static file
 
 ###Backlog:
-- [ ] server index.html page
-- [ ] review target site html and determine parse algorithm 
+- [ ] reiew each podcst and build parse algorithm for finding the amazon links
+- [ ] refactory request handling out of server.js
 - [ ] render the list to the page
 - [ ] make a decision on routing and using angular routes vs UI
 - [ ] set up angular site and render info from blog to page
@@ -15,6 +15,10 @@
 - [ ] write a faq
 
 ##Completed
+- [x] setup nodemon
+- [x] create server and render "hello world"
+- [x] review target podcast list html and determine parse algorithm 
+- [x] server index.html page
 - [x] design schema
 - [x] setup environment
 
