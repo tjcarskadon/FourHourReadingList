@@ -1,6 +1,6 @@
 var express = require('express');
 var mongoose = require('mongoose');
-var db = require('../db/parseModel.js')
+// var ps = require('../parseService/parseController.js')
  
 app = express();
 

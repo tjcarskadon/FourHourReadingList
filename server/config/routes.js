@@ -1,4 +1,4 @@
-var ps = require('../services/parseService.js')
+var ps = require('../parseService/parseController.js')
 
 module.exports = (app, express) => {
   app.get('/', (req, res) => {

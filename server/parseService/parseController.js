@@ -3,7 +3,10 @@ var cheerio = require('cheerio');
 var path = require('path');
 var fs = require('fs');
 var mongoose = require('mongoose');
-var db = require('../../db/parseModel.js');
+var pm = require('./parseModel.js');
+var Q = require('q');
+
+var addLink = Q.nbind(pm.create, pm);
 
 
 var url = 'http://fourhourworkweek.com/podcast/';
@@ -63,7 +66,44 @@ var fetchToFlat = (req, res) => {
 }
 
 var fetchToDb = (req, res) => {
+  rp(url)
+  .then( html => {
+    var tUrl, subject, guest, episode;
+    var urls = [];
+    //cache html cheerio style
+    var $ = cheerio.load(html);
+    var json = {url:'', status:false };
 
+    $('.podcast a').filter(function() {
+      var data = $(this); 
+      //get url and store in JSON object
+      urls.push(data.attr('href'));
+      // json.url = tUrl;
+    }); 
+    //write the succesfully received text to a file
+    urls.forEach(url => {
+
+      json.url = url;
+      json.status = true
+
+      pm.create(json, (err, data) => {
+        if(err) {
+          console.log('DB ERROR: ', err);
+        }
+      });
+      // pm.create(json)
+      // .then((data) => console.log("succss", data))
+      // .catch((err) => console.log("error: ", err));
+      
+
+    });
+
+    res.send('check the db');
+  })
+  .catch( err => {
+    //terminal log for error
+    console.log("error reading file: ", err);
+   });
 }
 
 exports.fetchToFlat = fetchToFlat;

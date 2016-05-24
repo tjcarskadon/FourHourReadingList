@@ -7,8 +7,13 @@ var ParseSchema = new mongoose.Schema ({
   status: Boolean
 })
 
+
 var parseModel = mongoose.model('Parse', ParseSchema);
 
+// parseModel.create({url: 'anoter', status: false}, function(err, data) {
+//   console.log('success');
+// });
+
 // exports.con = con;
-exports.parseModel = parseModel;
+module.exports = mongoose.model('Parse', ParseSchema);
   

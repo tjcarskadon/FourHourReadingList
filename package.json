@@ -5,10 +5,12 @@
   "main": "server.js",
   "author": "Tj Carskadon",
   "dependencies": {
+    "bluebird": "^3.4.0",
     "cheerio": "latest",
     "express": "latest",
     "mongodb": "^2.1.19",
     "mongoose": "^4.4.19",
+    "q": "^1.4.1",
     "request-promise": "^3.0.0"
   },
   "devDependencies": {
