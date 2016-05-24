@@ -5,6 +5,7 @@ angular.module('list.links', []);
   $scope.info = {};
 
   Link.getLinks().then( info => {
+    console.lo('info from get', info);
     $scope.info.links = info;
   });
 

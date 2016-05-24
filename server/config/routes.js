@@ -26,4 +26,9 @@ module.exports = (app, express) => {
       rc.checkList();
     } 
   );
+
+   app.get('/links', (req, res) => {
+      rc.getAll(req, res);
+    } 
+  );
 } 

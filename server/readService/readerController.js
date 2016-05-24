@@ -61,6 +61,11 @@ var parsePage = (obj) => {
   });
 };
 
-
+var getAll = (res, req, next) => {
+  rm.find().then(function(links){
+    res.json(links);
+  });
+};
 exports.parsePage = parsePage;
 exports.checkList = checkList;
+exports.getAll = getAll;
