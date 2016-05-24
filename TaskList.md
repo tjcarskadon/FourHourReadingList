@@ -1,9 +1,8 @@
 ##Active Tasks:
-- [ ] Build a task list maker - reads the list of sites to be populated and stores them
 
 ###Backlog:
 - [ ] reiew each podcst and build parse algorithm for finding the amazon links
-- [ ] refactory request handling out of server.js
+- [ ] figure out duplicates in the links database - either make each one unique or put in a dupelicate check.
 - [ ] render the list to the page
 - [ ] make a decision on routing and using angular routes vs UI
 - [ ] set up angular site and render info from blog to page
@@ -14,6 +13,8 @@
 - [ ] write a faq
 
 ##Completed
+- [x] refactor request handling out of server.js
+- [x] Build a task list maker - reads the list of sites to be populated and stores them
 - [x] get list and add to a static file
 - [x] setup nodemon
 - [x] create server and render "hello world"

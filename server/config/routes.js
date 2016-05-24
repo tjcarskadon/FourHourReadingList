@@ -1,4 +1,5 @@
-var ps = require('../parseService/parseController.js')
+var mc = require('../mapService/mapController.js')
+var rc = require('../readService/readerController.js')
 
 module.exports = (app, express) => {
   app.get('/', (req, res) => {
@@ -7,12 +8,17 @@ module.exports = (app, express) => {
   });
 
   app.get('/fetchUrl', (req, res) => {
-      ps.fetchToFlat(req, res);
+      mc.fetchToFlat(req, res);
     } 
   );
 
   app.get('/fetchDb', (req, res) => {
-      ps.fetchToDb(req, res);
+      mc.fetchToDb(req, res);
+    } 
+  );
+
+   app.get('/fetchReading', (req, res) => {
+      rc.parsePage(req, res);
     } 
   );
 } 

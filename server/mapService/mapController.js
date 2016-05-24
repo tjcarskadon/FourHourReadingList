@@ -3,10 +3,10 @@ var cheerio = require('cheerio');
 var path = require('path');
 var fs = require('fs');
 var mongoose = require('mongoose');
-var pm = require('./parseModel.js');
-var Q = require('q');
+var mw = require('./mapWorker.js');
+// var Q = require('q');
 
-var addLink = Q.nbind(pm.create, pm);
+// var addLink = Q.nbind(pm.create, pm);
 
 
 var url = 'http://fourhourworkweek.com/podcast/';
@@ -86,7 +86,7 @@ var fetchToDb = (req, res) => {
       json.url = url;
       json.status = true
 
-      pm.create(json, (err, data) => {
+      mw.create(json, (err, data) => {
         if(err) {
           console.log('DB ERROR: ', err);
         }
