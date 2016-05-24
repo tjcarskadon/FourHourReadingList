@@ -11,6 +11,8 @@ var mw = require('./mapWorker.js');
 
 var url = 'http://fourhourworkweek.com/podcast/';
 
+// http://fourhourworkweek.com/2016/05/04/mike-rowe/
+
 var fetchToFlat = (req, res) => {
 
   rp(url)
@@ -30,7 +32,6 @@ var fetchToFlat = (req, res) => {
     //write the succesfully received text to a file
     urls.forEach(url => {
       json.url = url;
-      json.status = true
       
       fs.appendFile('output.txt', JSON.stringify(json, null, 4), err => {
         if (!err) {
@@ -84,7 +85,6 @@ var fetchToDb = (req, res) => {
     urls.forEach(url => {
 
       json.url = url;
-      json.status = true
 
       mw.create(json, (err, data) => {
         if(err) {

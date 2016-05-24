@@ -1,18 +1,18 @@
 ##Active Tasks:
 
 ###Backlog:
-- [ ] reiew each podcst and build parse algorithm for finding the amazon links
 - [ ] figure out duplicates in the links database - either make each one unique or put in a dupelicate check.
 - [ ] render the list to the page
 - [ ] make a decision on routing and using angular routes vs UI
 - [ ] set up angular site and render info from blog to page
-- [ ] Build a single page test to ensure parsing is correct
 - [ ] Look into chron jobs on a deployed server
 - [ ] add some task manager and automation
 - [ ] write a readme
 - [ ] write a faq
 
 ##Completed
+- [x] Build a single page test to ensure parsing is correct
+- [x] reiew each podcst and build parse algorithm for finding the amazon links
 - [x] refactor request handling out of server.js
 - [x] Build a task list maker - reads the list of sites to be populated and stores them
 - [x] get list and add to a static file

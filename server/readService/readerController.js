@@ -13,9 +13,25 @@ var rm = require('./readerModel.js');
 //then it will return the information to the view for display.
 
 //add a test URL for to parse for now
-var url = 'http://fourhourworkweek.com/2016/05/04/mike-rowe/'
+var checkList = () => {
 
-var parsePage = (req, res) => {
+  mw.find().where({status: false}).then(function(data) {
+    data.forEach(function(item){
+      parsePage(item);
+    });
+  });
+
+};
+
+//create function that reads the links db
+//checks for status 
+  // if status is false
+    //parse the page and store in readers table
+    //set parse to true
+
+//need to adjust what happenes because this functon will enventually not have the response object.
+var parsePage = (obj) => {
+  var url = obj.url;
   var results = [];
   var json = {title: '', author: '', recs: '', recby:'', url: ''};
   var link, title, author;
@@ -31,13 +47,23 @@ var parsePage = (req, res) => {
       json.author = data.parent().text().split('by ').pop();
       
       if (json.author !== 'Podcast' && json.author !== 'Books' && json.author !== 'TV Show' && json.title !==' Books') {
-        console.log(json);
-        results.push(json);
+        rm.create(json, function(err, data) {
+          if(err) {
+            console.log('error');
+          } else {
+            mw.findOneAndUpdate({url: url}, {status: true}, function(err) {
+              if(!err) {
+                console.log('updated success');
+              }
+            });
+            console.log('success');
+          }
+        });
       }
 
     });
 
-    res.send('parsed');
+    // res.send('check the db');
   })
   .catch(function(err) {
     console.log(err);
@@ -45,3 +71,4 @@ var parsePage = (req, res) => {
 };
 
 exports.parsePage = parsePage;
+exports.checkList = checkList;

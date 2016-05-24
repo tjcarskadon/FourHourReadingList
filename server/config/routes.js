@@ -21,4 +21,9 @@ module.exports = (app, express) => {
       rc.parsePage(req, res);
     } 
   );
+
+   app.get('/fetch', (req, res) => {
+      rc.checkList();
+    } 
+  );
 } 
