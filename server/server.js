@@ -1,4 +1,5 @@
 var express = require('express');
+var mongoose = require('mongoose');
 var db = require('../db/config.js')
 var rp = require('request-promise');
 var cheerio = require('cheerio');
@@ -6,7 +7,10 @@ var path = require('path');
 var fs = require('fs');
 app = express();
 
+mongoose.connect('mongodb://localhost/shortly');
+
 //route to index
+
 app.get('/', (req, res) => {
 //serves the static html page as a placeholder
  res.sendFile('mvp/client/index.html', {root: __dirname.substring(0,  __dirname.indexOf('mvp/'))});
@@ -27,7 +31,7 @@ app.get('/scrapeList', (req, res) => {
 
     // console.log($, '$$$$$$$$$$$$$$$$');
 
-    var json = {url: '', name: '', subject: '', episode: '' };
+    var json = {url:'', status:false };
 
     $('.podcast a').filter(function() {
       var data = $(this); 
@@ -35,11 +39,11 @@ app.get('/scrapeList', (req, res) => {
       urls.push(data.attr('href'));
       // json.url = tUrl;
     }); 
-
-
     //write the succesfully received text to a file
     urls.forEach(url => {
       json.url = url;
+      json.status = true
+      
       fs.appendFile('output.txt', JSON.stringify(json, null, 4), err => {
         if (!err) {
           //terminal log for success

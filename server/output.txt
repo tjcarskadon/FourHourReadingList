@@ -1368,4 +1368,1511 @@
     "name": "",
     "subject": "",
     "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/05/22/sebastian-junger/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/05/17/alex-honnold/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/05/13/how-to-optimize-creative-output-jarvis-versus-ferriss/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/05/09/the-secrets-of-gymnastic-strength-training/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/05/04/mike-rowe/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/04/30/joshua-skenes-playing-with-fire/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/04/27/on-zero-to-hero-transformations/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/04/23/paulo-coelho-the-alchemist/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/04/14/bj-miller/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/04/10/on-philosophy-and-riches/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/04/05/caroline-paul/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/03/29/morgan-spurlock-inside-the-mind-of-a-human-guinea-pig/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/03/27/how-to-live-in-the-moment/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/03/23/josh-waitzkin-the-prodigy-returns/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/03/21/avoid-the-busy-trap/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/03/16/the-random-show-ice-cold-edition/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/03/11/the-interview-master-cal-fussman-and-the-power-of-listening/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/03/04/how-to-10x-your-results/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/03/02/patrick-arnold/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/02/28/how-to-achieve-self-ownership/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/02/24/kaskade-and-sekou-andrews/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/02/18/shaun-white-the-most-unholy-snowboarder-ever/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/02/16/scorpion/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/02/10/seth-godin/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/02/02/how-to-practice-poverty-and-reduce-fear/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/01/30/naval-ravikant-on-happiness-hacks/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/01/26/luis-von-ahn-duolingo/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/01/22/the-tao-of-seneca/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/01/18/edward-norton-on-mastery-must-read-books-and-the-future-of-crowdfunding/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/01/15/chris-sacca-on-shark-tank-building-your-business-and-startup-mistakes/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/01/13/eric-weinstein/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/01/06/daymond-john-and-how-to-turn-weaknesses-into-strengths/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/01/03/new-years-resolutions/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/12/28/derek-sivers-reloaded-on-success-habits-and-billionaires-with-perfect-abs/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/12/22/amelia-boone/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/12/19/25-great-things-i-learned-from-podcast-guests-in-2015/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/12/14/derek-sivers-on-developing-confidence-finding-happiness-and-saying-no-to-millions/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/12/06/jamie-foxx/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/11/30/rainn-wilson/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/11/29/magic-of-mindfulness/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/11/25/bj-novak/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/11/22/will-macaskill/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/11/16/kevin-costner-the-near-death-audition-work-ethic-and-the-explorers-guild/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/11/10/alain-de-botton/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/11/03/dominic-dagostino/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/10/27/casey-neistat/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/10/24/lisa-randall/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/10/20/the-athlete-and-artist-who-cheats-death-jimmy-chin/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/10/17/5-tools-i-use-for-faster-and-better-sleep/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/10/13/the-nasty-icon-of-retail-sophia-amoruso/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/10/09/should-you-start-a-startup-or-build-a-cash-flow-business/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/10/05/richard-betts/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/10/02/the-5-things-i-did-to-become-a-better-investor/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/09/29/seth-rogen-and-evan-goldberg/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/09/25/jocko-willink/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/09/22/scott-adams-the-man-behind-dilbert/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/09/18/5-morning-rituals/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/09/14/are-psychedelic-drugs-the-next-medical-breakthrough/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/09/11/drunk-dialing/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/09/07/the-iceman-wim-hof/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/08/31/the-oracle-of-silicon-valley-reid-hoffman-plus-michael-mccullough/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/08/28/brene-brown-on-vulnerability-and-home-run-ted-talks/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/08/26/how-to-build-a-world-class-network-in-record-time/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/08/23/the-wizard-of-hollywood-robert-rodriguez/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/08/18/the-evolutionary-angel-naval-ravikant/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/08/07/kevin-kelly-on-artificial-intelligence-and-designer-babies/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/08/04/phil-libin/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/07/31/tara-brach/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/07/28/jane-mcgonigal/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/07/24/maria-popova-starting-a-successful-blog/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/07/21/charles-poliquin/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/07/17/peter-diamandis-on-the-education-system/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/07/15/laird-hamilton-the-king-of-big-wave-surfing-plus-gabrielle-reece-and-brian-mackenzie/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/07/10/general-stanley-mcchrystal-on-anti-war-americans-pushing-your-limits-and-the-three-military-tests-you-should-take/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/07/08/sam-harris-on-daily-routines-the-trolley-scenario-and-5-books-everyone-should-read/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/07/05/stanley-mcchrystal/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/06/26/whitney-cummings/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/06/22/adam-gazzaley/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/06/18/sam-kass/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/06/12/bryan-johnson/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/05/30/chris-sacca/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/05/28/how-to-build-a-large-audience-from-scratch-and-more/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/05/20/google-x/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/05/15/rick-rubin/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/05/07/noah-kagan/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/05/02/samy-kamkar/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/04/20/triple-h/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/04/14/jon-favreau/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/04/10/how-to-earn-your-freedom/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/04/06/glenn-beck/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/03/30/amanda-palmer/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/03/21/james-fadiman/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/03/18/mark-hart-raoul-pal-peter-attia/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/03/04/the-good-the-bad-and-the-ugly-of-crossfit/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/02/23/glitch-mob/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/02/09/matt-mullenweg/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/02/02/arnold-schwarzenegger/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/01/29/alex-blumberg/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/01/20/elon-musk-and-jeff-bezos/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/01/15/pavel-tsatsouline/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2015/01/10/microbiome/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/12/30/ed-cooke/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/12/23/4-hour-work-week-2015/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/12/18/peter-attia/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/12/17/foie-gras/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/12/09/future-crimes/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/12/01/bryan-callen/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/11/25/the-random-show-hating-tech-hidden-japanese-gems-sexual-awkwardness-and-more/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/11/21/nick-ganju/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/11/10/margaret-cho/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/11/04/rolf-potts/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/10/28/andrew-zimmern-on-simple-cooking-tricks-developing-tv-and-addiction/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/10/21/brain-pickings/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/10/15/money-master-the-game/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/10/09/ramit-sethi-on-persuasion-and-turning-a-blog-into-a-multi-million-dollar-business/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/10/07/global-learning-xprize/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/09/30/the-tim-ferriss-show-tracy-dinunzio-on-rapid-growth-and-rapid-learning/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/09/09/peter-thiel/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/08/29/kevin-kelly/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/08/22/the-random-show-episode-25-gut-bacteria-meditation-startups-and-more/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/08/12/ed-catmull/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/08/04/mike-shinoda/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/07/29/the-tim-ferriss-show-episode-20-dan-carlin-hardcore-history-building-podcasts-creativity-and-more/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/07/11/james-altucher/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/07/01/spartan-race/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/06/24/neil-strauss/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/06/18/sam-harris/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/06/16/not-to-do-lists-drugs-and-other-productivity-tricks/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/06/10/the-tim-ferriss-show-rhonda-patrick-life-extension/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/06/04/brian-koppelman-screenwriter/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/05/26/the-tim-ferriss-show-episode-8-chase-jarvis-master-photographer/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/05/19/think-like-a-freak/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/05/14/jason-silva-brain-games/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/05/06/the-tim-ferriss-podcast-episode-4-ryan-holiday/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/04/27/tim-ferriss-show-kelly-starret-and-dr-justin-mager/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2014/04/22/tim-ferriss-podcast/",
+    "name": "",
+    "subject": "",
+    "episode": ""
+}{
+    "url": "http://fourhourworkweek.com/2016/05/22/sebastian-junger/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/05/17/alex-honnold/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/05/04/mike-rowe/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/05/09/the-secrets-of-gymnastic-strength-training/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/04/30/joshua-skenes-playing-with-fire/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/05/13/how-to-optimize-creative-output-jarvis-versus-ferriss/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/04/27/on-zero-to-hero-transformations/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/04/23/paulo-coelho-the-alchemist/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/04/14/bj-miller/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/04/10/on-philosophy-and-riches/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/04/05/caroline-paul/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/03/29/morgan-spurlock-inside-the-mind-of-a-human-guinea-pig/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/03/27/how-to-live-in-the-moment/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/03/23/josh-waitzkin-the-prodigy-returns/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/03/21/avoid-the-busy-trap/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/03/16/the-random-show-ice-cold-edition/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/03/11/the-interview-master-cal-fussman-and-the-power-of-listening/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/03/04/how-to-10x-your-results/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/03/02/patrick-arnold/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/02/28/how-to-achieve-self-ownership/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/02/24/kaskade-and-sekou-andrews/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/02/16/scorpion/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/02/18/shaun-white-the-most-unholy-snowboarder-ever/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/02/10/seth-godin/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/02/02/how-to-practice-poverty-and-reduce-fear/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/01/30/naval-ravikant-on-happiness-hacks/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/01/26/luis-von-ahn-duolingo/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/01/22/the-tao-of-seneca/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/01/15/chris-sacca-on-shark-tank-building-your-business-and-startup-mistakes/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/01/18/edward-norton-on-mastery-must-read-books-and-the-future-of-crowdfunding/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/01/13/eric-weinstein/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/01/06/daymond-john-and-how-to-turn-weaknesses-into-strengths/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/01/03/new-years-resolutions/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/12/28/derek-sivers-reloaded-on-success-habits-and-billionaires-with-perfect-abs/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/12/22/amelia-boone/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/12/14/derek-sivers-on-developing-confidence-finding-happiness-and-saying-no-to-millions/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/12/19/25-great-things-i-learned-from-podcast-guests-in-2015/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/12/06/jamie-foxx/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/11/30/rainn-wilson/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/11/29/magic-of-mindfulness/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/11/25/bj-novak/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/11/22/will-macaskill/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/11/16/kevin-costner-the-near-death-audition-work-ethic-and-the-explorers-guild/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/11/10/alain-de-botton/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/11/03/dominic-dagostino/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/10/27/casey-neistat/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/10/24/lisa-randall/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/10/20/the-athlete-and-artist-who-cheats-death-jimmy-chin/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/10/17/5-tools-i-use-for-faster-and-better-sleep/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/10/13/the-nasty-icon-of-retail-sophia-amoruso/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/10/09/should-you-start-a-startup-or-build-a-cash-flow-business/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/10/05/richard-betts/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/10/02/the-5-things-i-did-to-become-a-better-investor/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/09/29/seth-rogen-and-evan-goldberg/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/09/25/jocko-willink/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/09/22/scott-adams-the-man-behind-dilbert/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/09/18/5-morning-rituals/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/09/14/are-psychedelic-drugs-the-next-medical-breakthrough/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/09/11/drunk-dialing/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/09/07/the-iceman-wim-hof/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/08/31/the-oracle-of-silicon-valley-reid-hoffman-plus-michael-mccullough/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/08/28/brene-brown-on-vulnerability-and-home-run-ted-talks/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/08/23/the-wizard-of-hollywood-robert-rodriguez/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/08/26/how-to-build-a-world-class-network-in-record-time/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/08/18/the-evolutionary-angel-naval-ravikant/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/08/07/kevin-kelly-on-artificial-intelligence-and-designer-babies/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/08/04/phil-libin/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/07/31/tara-brach/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/07/28/jane-mcgonigal/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/07/24/maria-popova-starting-a-successful-blog/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/07/21/charles-poliquin/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/07/17/peter-diamandis-on-the-education-system/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/07/15/laird-hamilton-the-king-of-big-wave-surfing-plus-gabrielle-reece-and-brian-mackenzie/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/07/10/general-stanley-mcchrystal-on-anti-war-americans-pushing-your-limits-and-the-three-military-tests-you-should-take/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/07/08/sam-harris-on-daily-routines-the-trolley-scenario-and-5-books-everyone-should-read/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/07/05/stanley-mcchrystal/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/06/26/whitney-cummings/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/06/22/adam-gazzaley/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/06/18/sam-kass/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/06/12/bryan-johnson/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/05/30/chris-sacca/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/05/28/how-to-build-a-large-audience-from-scratch-and-more/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/05/20/google-x/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/05/15/rick-rubin/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/05/07/noah-kagan/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/05/02/samy-kamkar/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/04/20/triple-h/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/04/14/jon-favreau/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/04/10/how-to-earn-your-freedom/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/04/06/glenn-beck/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/03/30/amanda-palmer/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/03/21/james-fadiman/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/03/18/mark-hart-raoul-pal-peter-attia/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/03/04/the-good-the-bad-and-the-ugly-of-crossfit/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/02/23/glitch-mob/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/02/09/matt-mullenweg/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/02/02/arnold-schwarzenegger/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/01/29/alex-blumberg/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/01/20/elon-musk-and-jeff-bezos/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/01/10/microbiome/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/01/15/pavel-tsatsouline/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/12/30/ed-cooke/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/12/23/4-hour-work-week-2015/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/12/18/peter-attia/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/12/17/foie-gras/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/12/09/future-crimes/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/12/01/bryan-callen/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/11/25/the-random-show-hating-tech-hidden-japanese-gems-sexual-awkwardness-and-more/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/11/21/nick-ganju/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/11/04/rolf-potts/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/11/10/margaret-cho/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/10/28/andrew-zimmern-on-simple-cooking-tricks-developing-tv-and-addiction/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/10/21/brain-pickings/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/10/15/money-master-the-game/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/10/09/ramit-sethi-on-persuasion-and-turning-a-blog-into-a-multi-million-dollar-business/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/10/07/global-learning-xprize/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/09/30/the-tim-ferriss-show-tracy-dinunzio-on-rapid-growth-and-rapid-learning/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/09/09/peter-thiel/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/08/22/the-random-show-episode-25-gut-bacteria-meditation-startups-and-more/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/08/29/kevin-kelly/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/08/12/ed-catmull/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/08/04/mike-shinoda/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/07/29/the-tim-ferriss-show-episode-20-dan-carlin-hardcore-history-building-podcasts-creativity-and-more/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/07/11/james-altucher/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/07/01/spartan-race/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/06/24/neil-strauss/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/06/18/sam-harris/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/06/16/not-to-do-lists-drugs-and-other-productivity-tricks/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/06/10/the-tim-ferriss-show-rhonda-patrick-life-extension/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/06/04/brian-koppelman-screenwriter/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/05/19/think-like-a-freak/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/05/14/jason-silva-brain-games/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/05/26/the-tim-ferriss-show-episode-8-chase-jarvis-master-photographer/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/05/06/the-tim-ferriss-podcast-episode-4-ryan-holiday/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/04/22/tim-ferriss-podcast/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/04/27/tim-ferriss-show-kelly-starret-and-dr-justin-mager/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/05/22/sebastian-junger/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/05/17/alex-honnold/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/05/13/how-to-optimize-creative-output-jarvis-versus-ferriss/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/05/09/the-secrets-of-gymnastic-strength-training/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/05/04/mike-rowe/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/04/30/joshua-skenes-playing-with-fire/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/04/27/on-zero-to-hero-transformations/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/04/23/paulo-coelho-the-alchemist/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/04/14/bj-miller/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/04/10/on-philosophy-and-riches/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/04/05/caroline-paul/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/03/29/morgan-spurlock-inside-the-mind-of-a-human-guinea-pig/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/03/27/how-to-live-in-the-moment/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/03/23/josh-waitzkin-the-prodigy-returns/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/03/21/avoid-the-busy-trap/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/03/16/the-random-show-ice-cold-edition/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/03/11/the-interview-master-cal-fussman-and-the-power-of-listening/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/03/04/how-to-10x-your-results/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/03/02/patrick-arnold/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/02/28/how-to-achieve-self-ownership/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/02/24/kaskade-and-sekou-andrews/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/02/18/shaun-white-the-most-unholy-snowboarder-ever/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/02/16/scorpion/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/02/10/seth-godin/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/02/02/how-to-practice-poverty-and-reduce-fear/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/01/30/naval-ravikant-on-happiness-hacks/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/01/26/luis-von-ahn-duolingo/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/01/22/the-tao-of-seneca/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/01/15/chris-sacca-on-shark-tank-building-your-business-and-startup-mistakes/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/01/18/edward-norton-on-mastery-must-read-books-and-the-future-of-crowdfunding/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/01/13/eric-weinstein/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/01/06/daymond-john-and-how-to-turn-weaknesses-into-strengths/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2016/01/03/new-years-resolutions/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/12/28/derek-sivers-reloaded-on-success-habits-and-billionaires-with-perfect-abs/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/12/22/amelia-boone/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/12/19/25-great-things-i-learned-from-podcast-guests-in-2015/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/12/14/derek-sivers-on-developing-confidence-finding-happiness-and-saying-no-to-millions/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/12/06/jamie-foxx/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/11/30/rainn-wilson/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/11/29/magic-of-mindfulness/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/11/25/bj-novak/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/11/22/will-macaskill/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/11/16/kevin-costner-the-near-death-audition-work-ethic-and-the-explorers-guild/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/11/10/alain-de-botton/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/11/03/dominic-dagostino/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/10/27/casey-neistat/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/10/24/lisa-randall/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/10/17/5-tools-i-use-for-faster-and-better-sleep/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/10/20/the-athlete-and-artist-who-cheats-death-jimmy-chin/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/10/13/the-nasty-icon-of-retail-sophia-amoruso/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/10/09/should-you-start-a-startup-or-build-a-cash-flow-business/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/10/05/richard-betts/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/09/29/seth-rogen-and-evan-goldberg/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/09/25/jocko-willink/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/10/02/the-5-things-i-did-to-become-a-better-investor/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/09/22/scott-adams-the-man-behind-dilbert/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/09/18/5-morning-rituals/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/09/14/are-psychedelic-drugs-the-next-medical-breakthrough/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/09/11/drunk-dialing/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/09/07/the-iceman-wim-hof/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/08/31/the-oracle-of-silicon-valley-reid-hoffman-plus-michael-mccullough/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/08/28/brene-brown-on-vulnerability-and-home-run-ted-talks/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/08/26/how-to-build-a-world-class-network-in-record-time/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/08/23/the-wizard-of-hollywood-robert-rodriguez/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/08/18/the-evolutionary-angel-naval-ravikant/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/08/07/kevin-kelly-on-artificial-intelligence-and-designer-babies/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/07/28/jane-mcgonigal/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/07/31/tara-brach/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/07/24/maria-popova-starting-a-successful-blog/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/08/04/phil-libin/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/07/21/charles-poliquin/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/07/17/peter-diamandis-on-the-education-system/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/07/15/laird-hamilton-the-king-of-big-wave-surfing-plus-gabrielle-reece-and-brian-mackenzie/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/07/10/general-stanley-mcchrystal-on-anti-war-americans-pushing-your-limits-and-the-three-military-tests-you-should-take/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/07/08/sam-harris-on-daily-routines-the-trolley-scenario-and-5-books-everyone-should-read/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/07/05/stanley-mcchrystal/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/06/26/whitney-cummings/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/06/22/adam-gazzaley/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/06/18/sam-kass/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/06/12/bryan-johnson/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/05/30/chris-sacca/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/05/28/how-to-build-a-large-audience-from-scratch-and-more/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/05/20/google-x/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/05/15/rick-rubin/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/05/07/noah-kagan/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/05/02/samy-kamkar/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/04/20/triple-h/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/04/14/jon-favreau/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/04/10/how-to-earn-your-freedom/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/04/06/glenn-beck/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/03/30/amanda-palmer/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/03/21/james-fadiman/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/03/18/mark-hart-raoul-pal-peter-attia/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/03/04/the-good-the-bad-and-the-ugly-of-crossfit/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/02/23/glitch-mob/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/02/09/matt-mullenweg/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/02/02/arnold-schwarzenegger/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/01/29/alex-blumberg/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/01/20/elon-musk-and-jeff-bezos/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/01/10/microbiome/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/12/30/ed-cooke/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2015/01/15/pavel-tsatsouline/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/12/23/4-hour-work-week-2015/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/12/18/peter-attia/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/12/17/foie-gras/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/12/09/future-crimes/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/12/01/bryan-callen/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/11/25/the-random-show-hating-tech-hidden-japanese-gems-sexual-awkwardness-and-more/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/11/21/nick-ganju/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/11/10/margaret-cho/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/11/04/rolf-potts/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/10/28/andrew-zimmern-on-simple-cooking-tricks-developing-tv-and-addiction/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/10/21/brain-pickings/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/10/15/money-master-the-game/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/10/09/ramit-sethi-on-persuasion-and-turning-a-blog-into-a-multi-million-dollar-business/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/10/07/global-learning-xprize/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/09/30/the-tim-ferriss-show-tracy-dinunzio-on-rapid-growth-and-rapid-learning/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/09/09/peter-thiel/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/08/22/the-random-show-episode-25-gut-bacteria-meditation-startups-and-more/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/08/29/kevin-kelly/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/08/12/ed-catmull/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/08/04/mike-shinoda/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/07/29/the-tim-ferriss-show-episode-20-dan-carlin-hardcore-history-building-podcasts-creativity-and-more/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/07/11/james-altucher/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/07/01/spartan-race/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/06/24/neil-strauss/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/06/18/sam-harris/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/06/16/not-to-do-lists-drugs-and-other-productivity-tricks/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/06/10/the-tim-ferriss-show-rhonda-patrick-life-extension/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/06/04/brian-koppelman-screenwriter/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/05/26/the-tim-ferriss-show-episode-8-chase-jarvis-master-photographer/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/05/19/think-like-a-freak/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/05/14/jason-silva-brain-games/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/05/06/the-tim-ferriss-podcast-episode-4-ryan-holiday/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/04/27/tim-ferriss-show-kelly-starret-and-dr-justin-mager/",
+    "status": true
+}{
+    "url": "http://fourhourworkweek.com/2014/04/22/tim-ferriss-podcast/",
+    "status": true
 }
