@@ -7,6 +7,7 @@
   "dependencies": {
     "cheerio": "latest",
     "express": "latest",
+    "mongodb": "^2.1.19",
     "mongoose": "^4.4.19",
     "request-promise": "^3.0.0"
   },

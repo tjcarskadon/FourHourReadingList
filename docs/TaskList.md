@@ -1,5 +1,5 @@
 ##Active Tasks:
-- [ ] Build a task list maker - reads the list of sites to be populated and stores them
+- [ ] get list and add to a static file
 
 ###Backlog:
 - [ ] reiew each podcst and build parse algorithm for finding the amazon links
@@ -8,13 +8,13 @@
 - [ ] make a decision on routing and using angular routes vs UI
 - [ ] set up angular site and render info from blog to page
 - [ ] Build a single page test to ensure parsing is correct
+- [ ] Build a task list maker - reads the list of sites to be populated and stores them
 - [ ] Look into chron jobs on a deployed server
 - [ ] add some task manager and automation
 - [ ] write a readme
 - [ ] write a faq
 
 ##Completed
-- [x] get list and add to a static file
 - [x] setup nodemon
 - [x] create server and render "hello world"
 - [x] review target podcast list html and determine parse algorithm 
