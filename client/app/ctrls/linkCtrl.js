@@ -1,6 +1,6 @@
-angular.module('list.links', []);
+angular.module('list.links', [])
 
-.controller('linkCtrl', ($scope, Link,) => {
+.controller('linkCtrl', ($scope, Link) => {
 
   $scope.info = {};
 

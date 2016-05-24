@@ -1,11 +1,11 @@
-angular.module('list.services', []);
+angular.module('list.services', [])
 
 .factory('Link', ($http) => {
 
   var getLinks = () => {
     return $http ({
       method: 'GET',
-      url:'/api/fetch'
+      url:'/api/links'
     }).then( resp => resp.data);
   };
 

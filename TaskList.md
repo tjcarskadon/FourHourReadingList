@@ -3,6 +3,7 @@
 
 ###Backlog:
 - [ ] add the recommender(s)
+- [ ] refactor the spiders out into their own files
 - [ ] filter content to show type.  Movies or books
 - [ ] make a decision on routing and using angular routes vs UI
 - [ ] set up angular site and render info from blog to page

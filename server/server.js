@@ -8,7 +8,7 @@ mongoose.connect('mongodb://localhost/readingList');
 
 //not sure if I will need this,,,place holder for now.
 // require('./config/middleware.js')(app, express);
-
+require('./config/middleware.js')(app, express);
 require('./config/routes.js')(app, express);
 
 

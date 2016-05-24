@@ -2,7 +2,7 @@ angular.module('lists', [
   'list.services',
   'list.links',
   'ngRoute'
-  ]);
+  ])
 
 .config(($routeProvider, $httpProivder) => {
   $routeProvider
