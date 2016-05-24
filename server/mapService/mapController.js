@@ -11,7 +11,7 @@ var mw = require('./mapWorker.js');
 
 var url = 'http://fourhourworkweek.com/podcast/';
 
-// http://fourhourworkweek.com/2016/05/04/mike-rowe/
+
 
 var fetchToFlat = (req, res) => {
 
@@ -74,6 +74,13 @@ var fetchToDb = (req, res) => {
     //cache html cheerio style
     var $ = cheerio.load(html);
     var json = {url:'', status:false };
+
+//parse for the guest 
+  //get parent tags
+  //put in array
+  //get text from link
+  //put in an array
+  //iterate over the tags and 
 
     $('.podcast a').filter(function() {
       var data = $(this); 

@@ -3,7 +3,7 @@ var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
 var mapSchema = new mongoose.Schema ({
-  url: String,
+  url: {type: String, index: {unique: true}},
   status: Boolean
 })
 

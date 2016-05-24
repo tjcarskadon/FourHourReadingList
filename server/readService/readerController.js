@@ -61,5 +61,6 @@ var parsePage = (obj) => {
   });
 };
 
+
 exports.parsePage = parsePage;
 exports.checkList = checkList;

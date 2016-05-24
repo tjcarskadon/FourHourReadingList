@@ -1,0 +1,12 @@
+<div class="links-container" ng-controller="linkCtrl">
+    <table class="links-table">
+          <tr class="links-row" ng-repeat="link in info.links">  
+        <td class="title">title: {{ink.title}}</td>
+        <td class="author">author: {{link.author}}</td>
+        <td class="recs">num: {{link.num}}</td>
+        <td class="url"><a href="link.url">{{link.url}}</a></td>
+      </tr>
+    </table>
+    <!-- /links-table -->
+</div>
+<!-- /links -->

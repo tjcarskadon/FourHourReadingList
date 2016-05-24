@@ -1,8 +1,9 @@
 ##Active Tasks:
+- [ ] render the list to the page with angular
 
 ###Backlog:
-- [ ] figure out duplicates in the links database - either make each one unique or put in a dupelicate check.
-- [ ] render the list to the page
+- [ ] add the recommender(s)
+- [ ] filter content to show type.  Movies or books
 - [ ] make a decision on routing and using angular routes vs UI
 - [ ] set up angular site and render info from blog to page
 - [ ] Look into chron jobs on a deployed server
@@ -11,6 +12,7 @@
 - [ ] write a faq
 
 ##Completed
+- [x] figure out duplicates in the links database - either make each one unique or put in a dupelicate check.
 - [x] Build a single page test to ensure parsing is correct
 - [x] reiew each podcst and build parse algorithm for finding the amazon links
 - [x] refactor request handling out of server.js
@@ -24,7 +26,14 @@
 - [x] setup environment
 
 ##Notes:
-- filter by guest name will be a bit difficult.  work on this as an added feature
+- wiring up angular
+    + no routes just the home page
+    + one controller to render the links
+    + one service to get the links
+- reccomended by
+    + add episode number and person to the maps
+    + when parsing add this info to the links
+    + this is a chance to optimze and do some relations but for now brute force it.
 
 ###Architecture:
 - [ ] MEAN stack

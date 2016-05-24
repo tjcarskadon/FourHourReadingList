@@ -3,7 +3,7 @@ var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
 var readerSchema = new mongoose.Schema ({
-  title: String,
+  title: {type: String, index: {unique: true}},
   author: String,
   recs: Number,
   recby: String,
