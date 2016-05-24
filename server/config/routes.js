@@ -1,4 +1,4 @@
-var fetcher = require('../services/linkFetcher.js')
+var ps = require('../services/parseService.js')
 
 module.exports = (app, express) => {
   app.get('/', (req, res) => {
@@ -7,7 +7,7 @@ module.exports = (app, express) => {
   });
 
   app.get('/fetchUrl', (req, res) => {
-      fetcher.fetchToFlat(req, res);
+      ps.fetchToFlat(req, res);
     } 
   );
 } 
