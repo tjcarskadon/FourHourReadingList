@@ -2,6 +2,9 @@ var rp = require('request-promise');
 var cheerio = require('cheerio');
 var path = require('path');
 var fs = require('fs');
+var mongoose = require('mongoose');
+var db = require('../../db/parseModel.js');
+
 
 var url = 'http://fourhourworkweek.com/podcast/';
 
@@ -59,5 +62,9 @@ var fetchToFlat = (req, res) => {
    });
 }
 
+var fetchToDb = (req, res) => {
+
+}
 
 exports.fetchToFlat = fetchToFlat;
+exports.fetchToDb = fetchToDb;

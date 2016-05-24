@@ -10,4 +10,9 @@ module.exports = (app, express) => {
       ps.fetchToFlat(req, res);
     } 
   );
+
+  app.get('/fetchDb', (req, res) => {
+      ps.fetchToDb(req, res);
+    } 
+  );
 } 

@@ -1,6 +1,6 @@
 var express = require('express');
 var mongoose = require('mongoose');
-var db = require('../db/config.js')
+var db = require('../db/parseModel.js')
  
 app = express();
 
@@ -13,6 +13,6 @@ require('./config/routes.js')(app, express);
 
 
 app.listen('8081');
-console.log('making magic on 8081'); 
+console.log('making magic on 8081');   
 
 exports = module.exports = app;
